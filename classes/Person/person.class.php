@@ -1,5 +1,6 @@
 <?php
 
+namespace Person;
 
 class Person{
 

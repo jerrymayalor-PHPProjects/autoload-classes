@@ -16,7 +16,7 @@
                 <h1>
                     <?php 
                     
-                        $obj = new Person( 'Mike', 'Idol', 18 );
+                        $obj = new Person\Person( 'Mike', 'Idol', 18 );
                         echo $obj->getName();
                     
                     ?>
