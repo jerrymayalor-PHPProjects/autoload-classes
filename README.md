@@ -1,2 +1,2 @@
 # autoload-classes
-This is a sample of how to autoload classes in OOP PHP
+This is how to autoload PHP classes in OOP 
